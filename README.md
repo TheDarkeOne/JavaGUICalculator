@@ -1,1 +1,1 @@
-"# JavaGUICalculator" 
+"Java Swing Calculator" 
